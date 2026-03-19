@@ -10,7 +10,7 @@ class BankAccount(
     var balance: Double = 0.0
 
     init{
-        numberOfAccounts++;
+        numberOfAccounts++
     }
 
     fun deposit(amount: Double){

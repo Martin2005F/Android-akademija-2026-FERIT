@@ -10,5 +10,5 @@ fun main() {
 
     email = "JohnSmith@gmail.com"
 
-    println(email?.length)
+    println("$name, $surname, ${email.length}, $age")
 }

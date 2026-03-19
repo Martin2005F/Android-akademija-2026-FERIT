@@ -1,7 +1,7 @@
 fun main(){
     val articleCode = 2;
     val price = 2
-    val receivedMoney = 3
+    val receivedMoney = 1
 
    val drink = when(articleCode){
         1 -> "Voda"

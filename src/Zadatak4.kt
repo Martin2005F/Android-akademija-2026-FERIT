@@ -1,11 +1,9 @@
-import java.util.Locale
-import java.util.Locale.getDefault
 
 fun main(){
     println("Input your username")
     val userName = readln()
 
-    val correctedUserName = UsernameCorection(userName)
+    val correctedUserName = usernameCorrection(userName)
 
     if(isValid(correctedUserName)){
         println("Your username $userName is valid")
@@ -15,7 +13,7 @@ fun main(){
 
 }
 
-fun UsernameCorection(userName: String): String {
+fun usernameCorrection(userName: String): String {
    return userName.trim().lowercase()
 }
 
