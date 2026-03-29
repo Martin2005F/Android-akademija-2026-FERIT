@@ -1,0 +1,9 @@
+This project is a Kotlin-based simulation of a space mission. It demonstrates how to manage a crew and resources using advanced programming patterns:
+
+Astronaut Management: Handles crew members, their energy levels (missionPower), and specialized tools using lateinit.
+
+Smart Mission Logic: Uses Higher-Order Functions to pass custom mission tasks as blocks of code (lambdas).
+
+Resource Tracking: Monitors essential supplies like Oxygen and Water, triggering alerts when they reach a criticalLevel.
+
+Safe Outcomes: Utilizes Sealed Classes (Success or Fail) to ensure every mission result is handled securely without errors.
