@@ -35,7 +35,7 @@ fun main() {
         }
     }
 
-    println("\n--- FINAL STATUS ---")
+    println("--- FINAL STATUS ---")
     crew.forEach { it.getDetails() }
 }
 
@@ -43,5 +43,14 @@ fun executeMission(
     astronaut: Astronaut,
     missionLogic: (Astronaut) -> MissionReport
 ): MissionReport {
-    return missionLogic(astronaut)
+    var report = missionLogic(astronaut)
+
+    if (report is MissionReport.Fail) {
+        if (!astronaut.hasEnoughPower(25.0)) {
+            astronaut.repair()
+            report = missionLogic(astronaut)
+        }
+    }
+
+    return report
 }
