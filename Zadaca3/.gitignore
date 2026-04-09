@@ -1,15 +1,21 @@
-### IntelliJ IDEA ###
-out/
+# Android / Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# IDE files
 .idea/
 *.iml
 
-### Kotlin ###
-.kotlin
-
-### OS Specifično ###
+# OS files
 .DS_Store
 Thumbs.db
 
-### Build Files ###
-bin/
-gen/
+# Logs
+*.log
+
+# Kotlin / Java
+*.class
