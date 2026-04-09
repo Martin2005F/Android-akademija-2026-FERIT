@@ -10,19 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ad2063a-f3eb-44d8-a76f-522f008b034b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/About Task" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/About Task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Astronaut.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Astronaut.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Maintainable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Maintainable.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/MissionReport.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/MissionReport.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Person.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Resource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Resource.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/SpaceExplorationStation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/SpaceExplorationStation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca3/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,25 +54,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Martin2005F"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Martin2005F&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Martin2005F/Android-akademija-2026-FERIT.git",
-    "accountId": "462b612c-9a28-4f1b-8d5f-308f29504473"
+    "accountId": "ece12393-fe26-47e6-8ddd-b005f538beae"
   }
 }]]></component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\marti\.gradle\wrapper\dists\gradle-9.3.1-bin\23ovyewtku6u96viwx3xl3oks\gradle-9.3.1" javaHome="D:\Android studio\jbr" gradleVersion="9.3.1" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3C62KwKhLRjBJ5iMUB0Iz8kbkop" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -96,10 +84,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
