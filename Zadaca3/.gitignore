@@ -9,6 +9,8 @@ local.properties
 # IDE files
 .idea/
 *.iml
+*.iws
+*.ipr
 
 # OS files
 .DS_Store
@@ -19,3 +21,13 @@ Thumbs.db
 
 # Kotlin / Java
 *.class
+
+# Additional Android Studio / Gradle noise
+*.hprof
+.cxx/
+.externalNativeBuild/
+captures/
+.navigation/
+output.json
+lint-results-*.html
+lint-results-*.xml
