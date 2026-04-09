@@ -9,7 +9,21 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ad2063a-f3eb-44d8-a76f-522f008b034b" name="Changes" comment="" />
+    <list default="true" id="4ad2063a-f3eb-44d8-a76f-522f008b034b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca1/src/Zadatak5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca1/src/Zadatak5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/About Task" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/About Task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Astronaut.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Astronaut.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Maintainable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Maintainable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/MissionReport.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/MissionReport.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Person.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/Resource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/Resource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadaca3/Zadaca2/src/SpaceExplorationStation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Zadaca2/src/SpaceExplorationStation.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
